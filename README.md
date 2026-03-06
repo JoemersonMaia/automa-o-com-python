@@ -9,4 +9,4 @@ Conteúdo atual
 
 cadastro_de_produtos (finalizado):
 
-O objetivo desta automação é criar um objeto que recebe uma planilha do Excel e faz determinadas alterações de acordo com a necessidade do usuário, como por exemplo automatizar o cadastro de produtos em um determninado sistema.
+O objetivo desta automação é criar um objeto que recebe uma planilha e executar tarefas manuais, como por exemplo automatizar o cadastro de produtos em um determninado sistema.
